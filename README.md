@@ -43,8 +43,6 @@ Normalizes phone numbers to the international standard. Supported international 
 
 ## Usage
 
-  The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
-
   Install the package:
 
 ```bash
@@ -61,13 +59,13 @@ const phoneFormatter = require('phone-format');
 
 ### normalizeArraySync()
 
-    * Parameters
-        * Phone Number(s) : (Required). Accepts an Array of Phone Number strings,
-        * DDI: (Default: `'55'`). Specifies which formatting rule to be used (Only support +55 for now)
-        * DDD: (Default: `'11'`). Specifies the default Area Code, if not present.
-    
-    * Returns
-      * Array of objects as bellow:
+  * Parameters
+    * Phone Number(s) : (Required). Accepts an Array of Phone Number strings,
+    * DDI: (Default: `'55'`). Specifies which formatting rule to be used (Only support +55 for now)
+    * DDD: (Default: `'11'`). Specifies the default Area Code, if not present.
+  
+  * Returns
+    * Array of objects as bellow:
       
 ```js
 [
