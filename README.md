@@ -96,7 +96,7 @@ const phoneFormatter = require('phone-format');
 [npm-url]: https://npmjs.org/package/phone-format
 [downloads-image]: https://img.shields.io/npm/dm/phone-format.svg
 [downloads-url]: https://npmjs.org/package/phone-format
-[travis-image]: https://img.shields.io/travis/wanderleypanosso/phone-format/master.svg?label=linux
+[travis-image]: https://img.shields.io/travis/wanderleypanosso/phone-format/master.svg?label=build
 [travis-url]: https://travis-ci.org/wanderleypanosso/phone-format
 [coveralls-image]: https://img.shields.io/coveralls/wanderleypanosso/phone-format/master.svg
 [coveralls-url]: https://coveralls.io/r/wanderleypanosso/phone-format?branch=master
