@@ -1,0 +1,35 @@
+{
+  "name": "phone-format",
+  "version": "0.0.0",
+  "description": "International standard Phone Number formatter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanderleypanosso/phone-format.git"
+  },
+  "keywords": [
+    "brazilian",
+    "phone",
+    "number",
+    "formatter",
+    "cellphone"
+  ],
+  "author": "Wanderley Panosso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wanderleypanosso/phone-format/issues"
+  },
+  "homepage": "https://github.com/wanderleypanosso/phone-format#readme",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "lib/"
+  ]
+}
