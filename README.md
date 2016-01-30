@@ -26,7 +26,7 @@ console.log(formatted);
 ## Installation
 
 ```bash
-$ npm install phone-formatter
+$ npm install phone-format
 ```
 
 ## Features
@@ -52,12 +52,12 @@ $ npm install phone-format --save
   Require the package:
 
 ```js
-const phoneFormatter = require('phone-format');
+const phoneFormat = require('phone-format');
 ```
 
 ## Documentation
 
-### normalizeArraySync()
+### phoneFormat.normalizeArraySync(phoneNumbers[, DDI, DDD])
 
   * Parameters
     * Phone Number(s) : (Required). Accepts an Array of Phone Number strings,
