@@ -1,6 +1,6 @@
 {
   "name": "phone-format",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "International standard Phone Number formatter.",
   "main": "index.js",
   "scripts": {
