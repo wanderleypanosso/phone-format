@@ -57,7 +57,7 @@ const phoneFormat = require('phone-format');
 
 ## Documentation
 
-### phoneFormat.normalizeArraySync(phoneNumbers[, DDI, DDD])
+#### normalizeArraySync(phoneNumbers[, DDI, DDD])
 
   * Parameters
     * Phone Number(s) : (Required). Accepts an Array of Phone Number strings,
